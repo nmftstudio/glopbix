@@ -1,33 +1,33 @@
-# Política de Privacidad - Glopbix
+Privacy Policy for Glopbix
 
-**Última actualización:** 23 de febrero de 2026
+Effective Date: February 23, 2026
 
-En **NMFTSTUDIO**, valoramos su privacidad. Esta Política de Privacidad describe cómo se maneja la información en el juego móvil **Glopbix**.
+NMFTSTUDIO ("we", "us", or "our") operates the Glopbix mobile application. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service.
 
-## 1. Recolección de Información
-Glopbix es un simulador de acuario de un solo jugador. 
-* **No recopilamos datos personales:** No solicitamos ni almacenamos nombres, correos electrónicos, números de teléfono ni ubicaciones.
-* **No hay registro de usuario:** El juego no requiere la creación de una cuenta para funcionar.
+1. Information Collection and Use
+Glopbix is designed with a "Privacy by Design" approach. We do NOT collect any personally identifiable information (PII) such as names, addresses, emails, phone numbers, or location data.
 
-## 2. Almacenamiento de Datos (Local Storage)
-El progreso del juego (monedas, genética de los peces, configuraciones del acuario) se almacena localmente en su dispositivo. 
-* Estos datos permanecen en su dispositivo y no se envían a nuestros servidores.
-* Si desinstala la aplicación o borra los datos de la misma, su progreso se perderá permanentemente ya que no contamos con guardado en la nube.
+2. Data Processed Locally
 
-## 3. Servicios de Terceros
-La aplicación está desarrollada con tecnologías web (HTML5/JavaScript). 
-* No utilizamos cookies de rastreo.
-* No compartimos información con anunciantes ni analíticas de terceros en la versión actual.
+Game Progress: Your aquarium status, fish DNA, currency, and settings are stored locally on your device using local storage. This data never leaves your device and is only accessible by the application.
 
-## 4. Privacidad de los Niños
-Dado que no recopilamos ninguna información personal, Glopbix es seguro para usuarios de todas las edades. No solicitamos información de identificación personal a niños.
+Push Notifications: We use local, device-level push notifications to remind you to feed your fish or clean the tank. These are generated locally and do not rely on remote tracking servers.
 
-## 5. Permisos de la Aplicación
-Glopbix no requiere permisos especiales (como acceso a la cámara, contactos o micrófono) para su funcionamiento básico.
+3. Artificial Intelligence (AI) Features
+Glopbix utilizes the Google Gemini API to generate unique fish statistics and power "Glooby," the in-game AI assistant.
 
-## 6. Cambios en esta Política
-Nos reservamos el derecho de actualizar esta política en el futuro. Cualquier cambio será publicado en esta misma sección.
+When you use the AI chat or generate a new species, text prompts containing your current in-game state (e.g., number of fish, water temperature, cleanliness) and your chat inputs are sent to the AI provider to generate a response.
 
-## 7. Contacto
-Si tiene alguna pregunta sobre esta Política de Privacidad, puede contactarnos en:
-**Correo electrónico:** nmftstudio@gmail.com
+No personal data is included in these requests. We strongly advise users not to input personal information into the Glooby AI chat.
+
+4. Third-Party Services
+Aside from the AI API mentioned above, we do not use third-party analytics or advertising SDKs that track your activity across other apps.
+
+5. Children's Privacy
+Our Service does not knowingly collect personally identifiable information from anyone under the age of 13.
+
+6. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the app.
+
+7. Contact Us
+If you have any questions about this Privacy Policy, please contact us by email: nmftstudio@gmail.com
